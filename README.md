@@ -10,7 +10,7 @@ The application includes features such as dark mode, temperature unit switching 
 ![Light Mode](https://raw.githubusercontent.com/vanshikachilkoti/Weather-App/main/Images/weather_light.jpg) 
 
 ### Dark Mode  
-![Dark Mode](https://raw.githubusercontent.com/vanshikachilkoti/Weather-App/main/images/weather_dark.jpg)  
+![Dark Mode](https://raw.githubusercontent.com/vanshikachilkoti/Weather-App/main/Images/weather_dark.jpg)  
 
 
 ## Features  
